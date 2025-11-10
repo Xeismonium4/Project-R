@@ -1,7 +1,7 @@
 local GAMES = {
     {
         name = "Fish It",
-        gameId = 121864768012064,
+        gameId = 6701277882,
         scriptUrl = "https://raw.githubusercontent.com/Xeismonium4/Project-R/refs/heads/main/mancing-mania.lua"
     },
     {
